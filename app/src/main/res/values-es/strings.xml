@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Contest</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="team_a_title">Equipo A</string>
+    <string name="team_a_score">0</string>
+    <string name="team_a_score_button">+1</string>
+    <string name="team_b_title">Equipo B</string>
+    <string name="team_b_score">0</string>
+    <string name="team_b_score_button">+1</string>
+    <string name="reset_score_button">Reiniciar puntuaciones</string>
+    <string name="team_a_win">Equipo A Gana!</string>
+    <string name="team_b_win">Equipo B Gana!</string>
+    <string name="ok">Aceptar</string>
+    <string name="settings">Ajustes</string>
+    <string name="select_language">Idioma</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="save">Guardar</string>
+    <string name="return_main">Volver</string>
+</resources>

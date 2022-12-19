@@ -25,13 +25,12 @@
         app:layout_constraintTop_toBottomOf="@id/team_a_title" />
 
     <LinearLayout
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintBottom_toBottomOf="parent"
-        style="?android:attr/buttonBarStyle">
+        app:layout_constraintBottom_toBottomOf="parent">
 
         <Button
             android:id="@+id/team_a_score_button"
@@ -39,7 +38,7 @@
             android:layout_height="wrap_content"
             android:text="@string/team_a_score_button"
             android:layout_weight="1"
-            style="?android:attr/buttonBarButtonStyle"/>
+            android:layout_margin="16dp"/>
 
         <Button
             android:id="@+id/team_b_score_button"
@@ -47,7 +46,7 @@
             android:layout_height="wrap_content"
             android:text="@string/team_b_score_button"
             android:layout_weight="1"
-            style="?android:attr/buttonBarButtonStyle"/>
+            android:layout_margin="16dp"/>
     </LinearLayout>
 
 

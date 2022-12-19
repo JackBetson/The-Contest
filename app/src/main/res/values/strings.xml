@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">The Contest</string>
     <string name="action_settings">Settings</string>
@@ -11,4 +12,10 @@
     <string name="team_a_win">Team A Wins!</string>
     <string name="team_b_win">Team B Wins!</string>
     <string name="ok">OK</string>
+    <string name="settings">Setting</string>
+    <string name="select_language">Language</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="save">Save</string>
+    <string name="return_main">Return</string>
 </resources>
